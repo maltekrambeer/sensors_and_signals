@@ -6,5 +6,8 @@ env/
 __pycache__/
 .ipynb_checkpoints/
 
+# Ignore data
+data/
+
 # Ignore OS junk
 .DS_Store
